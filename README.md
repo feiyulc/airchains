@@ -7,8 +7,8 @@
   脚本运行后按1启动，中间需要先领取air的gas amf
   安装完成按7备份所有私钥
 一键运行avail版本:
-wget -O airchainrollup.sh https://raw.githubusercontent.com/candy1264/airchains/main/airchainrollup.sh && chmod +x airchainrollup.sh && ./airchainrollup.sh
+wget -O airchainrollup.sh https://raw.githubusercontent.com/feiyulc/airchains/main/airchainrollup.sh && chmod +x airchainrollup.sh && ./airchainrollup.sh
 一键运行eigenda版本:
-wget -O airchain.sh https://raw.githubusercontent.com/candy1264/airchains/main/airchain.sh&& chmod +x airchain.sh && ./airchain.sh
+wget -O airchain.sh https://raw.githubusercontent.com/feiyulc/airchains/main/airchain.sh&& chmod +x airchain.sh && ./airchain.sh
 eigenda+evmosd版本，强烈推荐！
-wget -O airchainevm.sh https://raw.githubusercontent.com/candy1264/airchains/main/airchainevm.sh&& chmod +x airchainevm.sh && ./airchainevm.sh
+wget -O airchainevm.sh https://raw.githubusercontent.com/feiyulc/airchains/main/airchainevm.sh&& chmod +x airchainevm.sh && ./airchainevm.sh
